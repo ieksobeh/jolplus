@@ -4,8 +4,8 @@
 // @version      1.0.7
 // @description  Various JOL improvements for noobs like myself
 // @author       shmug
-// @include	 https://deckserver.net/jol/*
-// @include	 https://www.deckserver.net/jol/*
+// @match	 https://deckserver.net/jol/*
+// @match	 https://www.deckserver.net/jol/*
 // @run-at       document-idle
 // @grant        GM_addStyle
 // @downloadURL https://update.greasyfork.org/scripts/378099/JOL%2B.user.js
